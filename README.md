@@ -1,8 +1,8 @@
 # Blinkit_PB
 
 
-Blinkit Perfo![Blink_it](https://github.com/user-attachments/assets/c59beee4-117a-4a98-9425-0f1f569afabf)
-rmance Analysis Dashboard Overview
+![Blink_it](https://github.com/user-attachments/assets/c59beee4-117a-4a98-9425-0f1f569afabf)
+Blinkit Performance Analysis Dashboard Overview
 
 This dashboard offers a comprehensive and data-driven view of Blinkit's business performance across multiple aspects such as sales, item variety, customer satisfaction, outlet establishment, and product categories. It is designed to give stakeholders a quick but detailed understanding of key performance indicators (KPIs) that directly impact Blinkit's growth and customer satisfaction. Here's an elaboration on the key insights, potential areas for further analysis, and actionable recommendations derived from the dashboard:
 
