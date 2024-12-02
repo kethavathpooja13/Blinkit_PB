@@ -54,6 +54,8 @@ Targeted Marketing:
 
 Blinkit should implement targeted marketing campaigns based on the detailed segmentation of customers. By analyzing purchase history and customer preferences, tailored promotions can be crafted, leading to more effective customer engagement.
 For example, health-conscious consumers might appreciate promotions on low-fat products, while urban professionals may prefer convenience-based products like ready-to-eat meals.
+![B_2](https://github.com/user-attachments/assets/b99ded36-cd54-472a-a683-d9c5a519f1c6)
+
 Product Expansion:
 
 Blinkit should consider introducing new and trending products based on customer feedback and market analysis. Keeping an eye on emerging trends (such as plant-based or organic foods) and diversifying product offerings can cater to evolving customer demands.
